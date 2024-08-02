@@ -1,8 +1,7 @@
 # Project Description 
 Performance Scripts for load and Strees Testing using k6 and java Script
 
-# Tech Stach:
-
+# Tools :
 - K6 
 - BDD
 - Java Script 
