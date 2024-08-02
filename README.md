@@ -1,19 +1,13 @@
-# Project Descripation 
-Para Bank selenium Framework project for Registeration Flow and Login 
+# Project Description 
+Performance Scripts for load and Strees Testing using k6 and java Script
 
 # Tech Stach:
 
-- Java 
-- selenium
-- Maven 
+- K6 
+- BDD
+- Java Script 
 - TestNG 
-- Page Object Model Desgin Pattern
-- BDD Using Cucmber 
-- Data Driven Testing Using CSV File
-- Compatibility Testing 
-
-according to fetch all site endpoints and their sent data and save it to Json  file Task  i use Proxy Mob Tool but some issues on My Local Machine Make me Cannot Run the Scripts using it
-also  attach TestBaseWithMobProxy.java file in the Root of the Project for the Implementation 
 
 # Run the Tests :
-Run Testing.xml File that includes all tests
+Open VS Code Terminal 
+Enter k6 run and Click Enter and Obeserve the Resulyt
