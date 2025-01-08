@@ -9,4 +9,4 @@ Performance Scripts for load and Strees Testing using k6 and java Script
 
 # Run the Tests :
 Open VS Code Terminal 
-Enter k6 run and Click Enter and Obeserve the Resulyt
+Enter k6 run and Click Enter and Obeserve the Results
